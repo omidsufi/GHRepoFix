@@ -103,3 +103,5 @@ export const editSale = (sale) => {
     }
   };
 };
+
+// now i will comment like Omid did.
